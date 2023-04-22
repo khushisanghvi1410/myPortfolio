@@ -39,7 +39,7 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-    <div className="flex flex-wrap justify-between ">
+    <div className=" flex flex-wrap justify-between ">
       <div>
 
    

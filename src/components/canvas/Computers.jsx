@@ -33,7 +33,7 @@ const ComputerCanvas = () => {
     
   },[])
   return (
-    <Canvas
+    <Canvas className="hidden sm:block "
       frameloop="demand"
       
       camera={{ position: [20, 3, 5], fov: 25 }}
